@@ -6,3 +6,5 @@ The main body of the code, where parameters are chosen, can be found in 'main' w
 The model saves the coordinates of the cell vertices and cell centres of mass. It also saves the vertex coordinates in a form such that the outlines of the cells can be plotted using gnuplot. The script 'cell_plotter' then uses these files to plot the cell layer. These figures can then be animated using 'animator'.
 
 [1] A. Killeen, T. Bertrand and C. F. Lee, Polar Fluctuations Lead to Extensile Nematic Behavior in Confluent Tissues, Physical Review Letters, 128 (7), 078001, 2022
+
+contact: a.killeen18@imperial.ac.uk
